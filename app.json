@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "project-65",
+    "slug": "snack-b82635d4-e872-49e7-ad9c-d4eb1901a017",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sanya.tts"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
